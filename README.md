@@ -1,88 +1,76 @@
-# 👋 Hi, I'm Brian Mtonga
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-🚀 Full Stack Developer | Systems Engineer | Problem Solver  
-🌍 Building scalable solutions from Malawi to the world  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brian+Mtonga!;" />
+</h1>
 
----
+<h3 align="center">A passionate software developer from Malawi mw</h3>
 
-## 🧠 About Me
+<br/>
 
-I'm a full-stack developer focused on building practical, scalable systems that solve real-world problems.
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, Jenkins**
 
-I specialize in:
-- Procurement & enterprise systems
-- Real-time applications (WebRTC, tracking systems)
-- IoT integrations (OBD2, hardware-to-cloud systems)
-- API design and backend architecture
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ningi265/ningi265/issues)**
 
-Currently building:
-- 🚛 Smart driver & trip management system
-- 🛒 Enterprise procurement platform
-- 📱 Cross-platform mobile applications (React Native)
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
----
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:brianmtonga592@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/bryan-mtonga-02413a242" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://bryanport.netlify.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-## 🛠 Tech Stack
+<br/>
+<hr/>
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,mysql,git,github,tailwind)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ningi265/ningi265/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-**Frontend**
-- React
-- React Native (Expo)
-- Tailwind CSS
-- MUI
+<hr/>
 
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Postgresql
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-ningi265.vercel.app/?user=ningi265&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-ningi265.vercel.app/api?username=ningi265&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-ningi265.vercel.app/api/top-langs/?username=ningi265&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-**DevOps & Tools**
-- Oracle Cloud
-- cPanel / Apache
-- Git & GitHub
-- Postman
-- Aws EC2
-- Kubernates
+<br/><br/>
 
-**Hardware / IoT**
-- Raspberry Pi
-- ESP32
-- OBD2 (ELM327)
+<hr/>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-### 🏢 Procurement System
-Enterprise-level procurement and requisition workflow system  
-Tech: React, Node.js, MongoDB  
-
-### 🚗 Driver & Trip Tracking System
-Live location tracking, trip requests, and route calculations  
-Tech: React, Express, MongoDB  
-
-### 📡 OBD2 Cloud Telemetry
-Real-time vehicle diagnostics streamed to a cloud server  
-Tech: Raspberry Pi, Node.js  
-
----
-
-## 📊 GitHub Stats
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningi265&show_icons=true&theme=default)
-
----
-
-## 🤝 Let's Connect
-
-- LinkedIn: (add link)
-- Email: (brianmtonga592@gmail.com)
-- Portfolio: (https://bryanport.netlify.app)
-
----
-
-> “Build systems that outlive you.”
+<br/>
